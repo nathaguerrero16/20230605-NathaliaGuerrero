@@ -1,0 +1,36 @@
+386  git status
+  387  git push origin main
+  388  git status
+  389  git init
+  390  git branch -M main
+  391  touch comandos.txt main.js index.html
+  392  ls
+  393  git add .
+  394  git commit -m "commit 01 de NathaliaGuerrero"
+  395  git remote add origin https://github.com/nathaguerrero16/20230605-NathaliaGuerrero.git
+  396  git push origin main
+  397  git status
+  398  git branch feature
+  399  git checkout feature
+  400  mkdir Hardware Software SeguridadInformatica
+  401  ls
+  402  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+  403  ls
+  404  ls -R
+  405  git add .
+  406  git commit -m "commit 02 de NathaliaGuerrero"
+  407  git push origin feature
+  408  git status
+  409  git checkout main
+  410  mv main.js resumenHardware.txt index.html resumenSoftware.txt
+  411*
+  412  mv index.html resumenSoftware.txt
+  413  history
+  414  history 25
+  415  history 27
+  416  git add .
+  417  git commit -m "commit 03 de NathaliaGuerrero"
+  418  git status
+  419  git log
+  420  git push origin main
+  421  history 36
